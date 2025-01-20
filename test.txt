@@ -1,0 +1,13 @@
+v0.1
+
+something all in github;
+its new start  from this world  
+its in th good all in up are my xaijiba write
+操作说明
+ctrl+s-保存
+ctrl+d-选择下一个相同字符
+alt+鼠标左键-添加多个光标
+ctrl+z-撤销
+alt+shifit+↑/↓-复制代码到下一行
+ctrl+f-搜索框
+https://github.com/OpenBMB/MiniCPM-o.git
